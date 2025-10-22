@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kayky Gazola!
 
-<!--
-**k4yky/K4yky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia de Software**  
+🧠 Especializado em **Engenharia de Prompt** e com **conhecimento em LLMs (Modelos de Linguagem de Grande Escala)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Boas-vindas  
+
+Seja muito bem-vindo(a) ao meu portfólio! 🚀  
+Aqui você encontrará meus projetos, experimentos e aprendizados no universo da tecnologia e da inteligência artificial.  
+Meu objetivo é transformar ideias em soluções práticas e criativas, explorando o potencial das IAs modernas e o desenvolvimento de software de forma estratégica.  
+
+Sinta-se à vontade para explorar, contribuir ou trocar ideias — colaboração é a chave para a inovação! 🤝  
+
+---
+
+### 📫 Vamos nos conectar?  
+💼 [LinkedIn](https://www.linkedin.com/in/kayky-gazola-853326368/)  
+📧 [E-mail](kaykyjesus100@gmail.com)
